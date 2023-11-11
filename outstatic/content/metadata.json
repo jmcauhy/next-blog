@@ -1,6 +1,6 @@
 {
   "commit": "5ea921c21231389efe3980e90d26096cc8f1b765",
-  "generated": "2023-11-11T05:12:29.607Z",
+  "generated": "2023-11-11T05:18:02.216Z",
   "metadata": [
     {
       "__outstatic": {
@@ -136,30 +136,6 @@
       "slug": "flycream-travel",
       "status": "published",
       "title": "Flycream Travel"
-    },
-    {
-      "__outstatic": {
-        "commit": "5ea921c21231389efe3980e90d26096cc8f1b765",
-        "hash": "2317005580",
-        "path": "outstatic/content/posts/hello-world.md"
-      },
-      "author": {
-        "name": "João Marcello",
-        "picture": "https://avatars.githubusercontent.com/u/18372925?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-11-11T02:00:44.876Z",
-      "slug": "hello-world",
-      "status": "published",
-      "tags": [
-        {
-          "label": "GitHub",
-          "value": "gitHub"
-        }
-      ],
-      "title": "Hello World!"
     }
   ]
 }
