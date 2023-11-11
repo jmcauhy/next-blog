@@ -1,6 +1,6 @@
 ---
 title: 'Hello World!'
-status: 'draft'
+status: 'published'
 author:
   name: 'João Marcello'
   picture: 'https://avatars.githubusercontent.com/u/18372925?v=4'

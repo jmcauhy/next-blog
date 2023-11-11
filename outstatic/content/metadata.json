@@ -1,6 +1,6 @@
 {
-  "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
-  "generated": "2023-11-11T05:11:58.798Z",
+  "commit": "5ea921c21231389efe3980e90d26096cc8f1b765",
+  "generated": "2023-11-11T05:12:29.607Z",
   "metadata": [
     {
       "__outstatic": {
@@ -139,8 +139,8 @@
     },
     {
       "__outstatic": {
-        "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
-        "hash": "2139030040",
+        "commit": "5ea921c21231389efe3980e90d26096cc8f1b765",
+        "hash": "2317005580",
         "path": "outstatic/content/posts/hello-world.md"
       },
       "author": {
@@ -152,7 +152,7 @@
       "description": "",
       "publishedAt": "2023-11-11T02:00:44.876Z",
       "slug": "hello-world",
-      "status": "draft",
+      "status": "published",
       "tags": [
         {
           "label": "GitHub",
