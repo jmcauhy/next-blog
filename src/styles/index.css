@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .home-intro p {
-  @apply text-2xl font-semibold leading-9;
+   @apply text-2xl font-semibold leading-9;
 }
