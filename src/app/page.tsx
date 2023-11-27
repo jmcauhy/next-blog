@@ -3,6 +3,8 @@ import { load } from 'outstatic/server'
 import ContentGrid from '../components/ContentGrid'
 import markdownToHtml from '../lib/markdownToHtml'
 
+const MAX_POSTS = 9
+
 export default async function Index() {
    const { content, allPosts } = await getData()
 
@@ -39,6 +41,7 @@ async function getData() {
          'description',
          'tags',
       ])
+      .limit(MAX_POSTS)
       .sort({ publishedAt: -1 })
       .toArray()
 
